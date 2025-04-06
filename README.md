@@ -11,8 +11,8 @@ Soy estudiante de Matemáticas Aplicadas y Computación, con especial interés e
 
 - 💻 Lenguajes: Python, JavaScript, SQL, R
 - 🧠 Ciencia de datos: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter
-- 🌐 Desarrollo web: HTML, CSS, React, Node.js
-- 🗃️ Bases de datos: MySQL, PostgreSQL, SQLite
+- 🌐 Desarrollo web: HTML, CSS
+- 🗃️ Bases de datos: MySQL, PostgreSQL
 - 📊 Herramientas: Excel, Power BI, Tableau
 - ⚙️ Otros: Git, GitHub, VSCode
 
