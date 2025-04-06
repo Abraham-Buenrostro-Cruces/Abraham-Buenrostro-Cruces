@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Abraham-Buenrostro-Cruces/Abraham-Buenrostro-Cruces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! 👋 Soy Abraham Buenrostro</h1>
+<h3 align="center">Apasionado por la ciencia de datos y el desarrollo de software</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Sobre mí**  
+Soy estudiante de Matemáticas Aplicadas y Computación, con especial interés en el desarrollo de software y la ciencia de datos. Me gusta construir soluciones útiles, aprender cosas nuevas y trabajar en proyectos que combinan tecnología, análisis y creatividad.
+
+🛠️ **Tecnologías que uso y me gustan**
+
+- 💻 Lenguajes: Python, JavaScript, SQL, R
+- 🧠 Ciencia de datos: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter
+- 🌐 Desarrollo web: HTML, CSS, React, Node.js
+- 🗃️ Bases de datos: MySQL, PostgreSQL, SQLite
+- 📊 Herramientas: Excel, Power BI, Tableau
+- ⚙️ Otros: Git, GitHub, VSCode
+
+---
+
+📈 **Estadísticas de GitHub**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abraham-Buenrostro-Cruces&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Buenrostro-Cruces&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+🌐 **Conéctate conmigo**
+
+- 📧 [buencrus06@gmail.com](mailto:buencrus06@gmail.com)
+- 📧 [317116951@pcpuma.acatlan.unam.mx](mailto:317116951@pcpuma.acatlan.unam.mx) 
+- 💼 [LinkedIn\Abraham](https://www.linkedin.com/in/abraham-buenrostro-cruces)  
+- 🐦 [Twitter / X](https://twitter.com/TU_USUARIO)  
+- 💻 [Portafolio](https://TU_PORTAFOLIO.com)  
+- 📊 [Kaggle](https://www.kaggle.com/TU_USUARIO)  
+- 🧑‍💻 [Dev.to](https://dev.to/TU_USUARIO)
+
+---
+
+🚀 **"Siempre aprendiendo, siempre construyendo."**
