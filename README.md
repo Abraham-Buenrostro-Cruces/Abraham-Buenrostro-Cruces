@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hola! 👋 Soy Abraham Buenrostro</h1>
-<h3 align="center">Apasionado por la ciencia de datos y el desarrollo de software</h3>
+<h3 align="center">Ciencia de datos y desarrollo de software</h3>
 
 ---
 
