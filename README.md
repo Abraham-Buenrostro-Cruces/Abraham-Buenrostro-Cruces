@@ -5,7 +5,7 @@
 ---
 
 🎯 **Sobre mí**  
-Soy estudiante de Matemáticas Aplicadas y Computación, con especial interés en el desarrollo de software y la ciencia de datos. Me gusta construir soluciones útiles, aprender cosas nuevas y trabajar en proyectos que combinan tecnología, análisis y creatividad.
+Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en el desarrollo de software y la ciencia de datos. Me gusta construir soluciones útiles, aprender cosas nuevas y trabajar en proyectos que combinan tecnología, análisis y creatividad.
 
 🛠️ **Tecnologías que uso y me gustan**
 
