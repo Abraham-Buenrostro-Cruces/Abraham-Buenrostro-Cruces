@@ -1,10 +1,10 @@
 
-<h1 align="center">¡Hola! 👋 Soy Abraham Buenrostro</h1>
+<h1 align="center">¡Hola! Soy Abraham Buenrostro</h1>
 <h3 align="center">Ciencia de datos y desarrollo de software</h3>
 
 ---
 
-🎯 **Sobre mí**  
+**Sobre mí**  
 Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en el desarrollo de software y la ciencia de datos. Me gusta construir soluciones útiles, aprender cosas nuevas y trabajar en proyectos que combinan tecnología, análisis y creatividad.
 
 🛠️ **Tecnologías que uso y me gustan**
