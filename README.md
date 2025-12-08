@@ -9,9 +9,9 @@ Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en 
 
 🛠️ **Tecnologías que uso y me gustan**
 
-- 💻 Lenguajes: Python, JavaScript, SQL, R
+- 💻 Lenguajes: Python, Java, SQL, R
 - 🧠 Ciencia de datos: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter
-- 🌐 Desarrollo web: HTML, CSS
+- 🌐 Desarrollo web: HTML, CSS, Spring
 - 🗃️ Bases de datos: MySQL, PostgreSQL
 - 📊 Herramientas: Excel, Power BI, Tableau
 - ⚙️ Otros: Git, GitHub, VSCode
