@@ -17,16 +17,17 @@ Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en 
 - ⚙️ Otros: Git, GitHub, VSCode
 
 ---
-
-📈 **Estadísticas de GitHub**
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abraham-Buenrostro-Cruces&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Buenrostro-Cruces&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abraham-Buenrostro-Cruces&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham-Buenrostro-Cruces&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abraham-Buenrostro-Cruces&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 🌐 **Conéctate conmigo**
 
