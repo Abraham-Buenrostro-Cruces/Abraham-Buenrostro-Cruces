@@ -5,13 +5,14 @@
 ---
 
 **Sobre mí**  
-Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en el desarrollo de software y la ciencia de datos. Me gusta construir soluciones útiles, aprender cosas nuevas y trabajar en proyectos que combinan tecnología, análisis y creatividad.
+Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en Ciencia de datos y desarrollo de software. Me gusta construir soluciones útiles, aprender cosas nuevas y trabajar en proyectos que combinan tecnología, análisis y creatividad.
 
 🛠️ **Tecnologías que uso y me gustan**
 
 - 💻 Lenguajes: Python, Java, SQL, R
 - 🧠 Ciencia de datos: Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter
 - 🌐 Desarrollo web: HTML, CSS, Spring
+- 🤖 Testing: Java->Serenity, Selenium, Typescript-> Playwright, Gherkin
 - 🗃️ Bases de datos: MySQL, PostgreSQL
 - 📊 Herramientas: Excel, Power BI, Tableau
 - ⚙️ Otros: Git, GitHub, VSCode
@@ -33,11 +34,7 @@ Licenciatura en Matemáticas Aplicadas y Computación, con especial interés en 
 
 - 📧 [buencrus06@gmail.com](mailto:buencrus06@gmail.com)
 - 📧 [317116951@pcpuma.acatlan.unam.mx](mailto:317116951@pcpuma.acatlan.unam.mx) 
-- 💼 [LinkedIn\Abraham](https://www.linkedin.com/in/abraham-buenrostro-cruces)  
-- 🐦 [Twitter / X](https://twitter.com/TU_USUARIO)  
-- 💻 [Portafolio](https://TU_PORTAFOLIO.com)  
-- 📊 [Kaggle](https://www.kaggle.com/TU_USUARIO)  
-- 🧑‍💻 [Dev.to](https://dev.to/TU_USUARIO)
+- 💼 [LinkedIn\Abraham](https://www.linkedin.com/in/abraham-buenrostro-cruces)   
 
 ---
 
